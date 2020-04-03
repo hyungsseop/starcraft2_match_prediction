@@ -1,0 +1,11 @@
+#folders
+preliminary/
+Desktop/
+data/
+env/
+.ipynb_checkpoints/
+
+
+# others
+sample_submission.csv
+eda.ipynb
